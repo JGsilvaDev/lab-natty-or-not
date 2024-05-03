@@ -2,9 +2,9 @@
 Laravel Rising
 
 ## 🤖 Tecnologias Utilizadas
-Para a criação do ebook: PowerPoint
-Para criação do texto: ChatGPT
-Para criação das imganes: Copilot
+* Para a criação do ebook: PowerPoint
+* Para criação do texto: ChatGPT
+* Para criação das imganes: Copilot
 
 ## 🧐 Processo de Criação
 Para criação desse Ebook foi necessario utilizar prompts ricos para que o texto fique o mais natural possivel, não vou negar que foi um desafio bem interessante descobrir todo o poder de uma IA Generativa, tanto na crição dos texto como tambem das imagens.
